@@ -19,3 +19,4 @@ This protects both the **LED** and the **Raspberry Pi GPIO pin** from damage.
 
 ## 📷 Circuit Diagram
 
+![Uploading WhatsApp Image 2026-03-07 at 5.41.26 PM.jpeg…]()
